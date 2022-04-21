@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\bin\Debug\26StaticClassveMethodlar.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\bin\Debug\26StaticClassveMethodlar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\bin\Debug\26StaticClassveMethodlar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\obj\Debug\26StaticClassveMethodlar.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\obj\Debug\26StaticClassveMethodlar.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\obj\Debug\26StaticClassveMethodlar.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\obj\Debug\26StaticClassveMethodlar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\26StaticClassveMethodlar\obj\Debug\26StaticClassveMethodlar.pdb

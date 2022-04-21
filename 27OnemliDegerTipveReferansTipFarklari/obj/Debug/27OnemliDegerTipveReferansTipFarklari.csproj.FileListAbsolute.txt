@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\bin\Debug\27OnemliDegerTipveReferansTipFarklari.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\bin\Debug\27OnemliDegerTipveReferansTipFarklari.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\bin\Debug\27OnemliDegerTipveReferansTipFarklari.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\obj\Debug\27OnemliDegerTipveReferansTipFarklari.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\obj\Debug\27OnemliDegerTipveReferansTipFarklari.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\obj\Debug\27OnemliDegerTipveReferansTipFarklari.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\obj\Debug\27OnemliDegerTipveReferansTipFarklari.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\27OnemliDegerTipveReferansTipFarklari\obj\Debug\27OnemliDegerTipveReferansTipFarklari.pdb

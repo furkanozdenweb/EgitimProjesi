@@ -1,0 +1,7 @@
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\bin\Debug\SartBloklari.exe.config
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\bin\Debug\SartBloklari.exe
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\bin\Debug\SartBloklari.pdb
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\obj\Debug\SartBloklari.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\obj\Debug\SartBloklari.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\obj\Debug\SartBloklari.exe
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\SartBloklari\obj\Debug\SartBloklari.pdb

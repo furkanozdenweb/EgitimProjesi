@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\bin\Debug\31ExceptionHataYakalama.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\bin\Debug\31ExceptionHataYakalama.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\bin\Debug\31ExceptionHataYakalama.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\obj\Debug\31ExceptionHataYakalama.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\obj\Debug\31ExceptionHataYakalama.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\obj\Debug\31ExceptionHataYakalama.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\obj\Debug\31ExceptionHataYakalama.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\31ExceptionHataYakalama\obj\Debug\31ExceptionHataYakalama.pdb

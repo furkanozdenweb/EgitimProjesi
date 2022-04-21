@@ -1,0 +1,6 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\bin\Debug\6Strings.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\bin\Debug\6Strings.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\bin\Debug\6Strings.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\obj\Debug\06Strings.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\obj\Debug\6Strings.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\6Strings\obj\Debug\6Strings.pdb

@@ -1,0 +1,15 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.csprojAssemblyReference.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\bin\Debug\14InterfaceClasslarKullanimOrnegi.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\14InterfaceClasslarKullanimOrnegi\obj\Debug\14InterfaceClasslarKullanimOrnegi.pdb

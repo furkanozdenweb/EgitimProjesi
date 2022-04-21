@@ -1,0 +1,15 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.csprojAssemblyReference.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\bin\Debug\15InterfaceGercekHayatOrnek2.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\15InterfaceGercekHayatOrnek2\obj\Debug\15InterfaceGercekHayatOrnek2.pdb

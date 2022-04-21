@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\bin\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\bin\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\bin\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\obj\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\obj\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\obj\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\obj\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\25TemelSınıfınYapıcıBlogunaParametreYollamak\obj\Debug\25TemelSınıfınYapıcıBlogunaParametreYollamak.pdb

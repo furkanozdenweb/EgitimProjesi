@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\bin\Debug\28KoleksiyonArrayListCalisma.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\bin\Debug\28KoleksiyonArrayListCalisma.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\bin\Debug\28KoleksiyonArrayListCalisma.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\obj\Debug\28KoleksiyonArrayListCalisma.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\obj\Debug\28KoleksiyonArrayListCalisma.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\obj\Debug\28KoleksiyonArrayListCalisma.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\obj\Debug\28KoleksiyonArrayListCalisma.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\28KoleksiyonArrayListCalisma\obj\Debug\28KoleksiyonArrayListCalisma.pdb

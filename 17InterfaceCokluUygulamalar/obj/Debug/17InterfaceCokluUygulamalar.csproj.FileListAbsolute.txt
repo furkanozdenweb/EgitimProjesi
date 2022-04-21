@@ -1,0 +1,8 @@
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\bin\Debug\17InterfaceCokluUygulamalar.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\bin\Debug\17InterfaceCokluUygulamalar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\bin\Debug\17InterfaceCokluUygulamalar.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\obj\Debug\17InterfaceCokluUygulamalar.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\obj\Debug\17InterfaceCokluUygulamalar.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\obj\Debug\17InterfaceCokluUygulamalar.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\obj\Debug\17InterfaceCokluUygulamalar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\17InterfaceCokluUygulamalar\obj\Debug\17InterfaceCokluUygulamalar.pdb

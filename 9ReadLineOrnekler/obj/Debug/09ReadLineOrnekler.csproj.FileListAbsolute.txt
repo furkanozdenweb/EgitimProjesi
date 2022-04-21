@@ -1,0 +1,7 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\bin\Debug\9ReadLineOrnekler.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\bin\Debug\9ReadLineOrnekler.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\bin\Debug\9ReadLineOrnekler.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\obj\Debug\09ReadLineOrnekler.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\obj\Debug\9ReadLineOrnekler.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\obj\Debug\9ReadLineOrnekler.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\9ReadLineOrnekler\obj\Debug\09ReadLineOrnekler.csprojAssemblyReference.cache

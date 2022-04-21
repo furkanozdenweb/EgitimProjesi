@@ -1,0 +1,7 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\bin\Debug\Methods.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\bin\Debug\Methods.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\bin\Debug\Methods.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\obj\Debug\03Methods.csprojAssemblyReference.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\obj\Debug\03Methods.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\obj\Debug\Methods.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\Methods\obj\Debug\Methods.pdb

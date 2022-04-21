@@ -1,0 +1,7 @@
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\bin\Debug\7Classlar.exe.config
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\bin\Debug\7Classlar.exe
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\bin\Debug\7Classlar.pdb
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\obj\Debug\7Classlar.csprojAssemblyReference.cache
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\obj\Debug\7Classlar.csproj.CoreCompileInputs.cache
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\obj\Debug\7Classlar.exe
+E:\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\7Classlar\obj\Debug\7Classlar.pdb

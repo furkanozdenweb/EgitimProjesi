@@ -1,0 +1,8 @@
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\bin\Debug\18Inheritance-Kalitim.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\bin\Debug\18Inheritance-Kalitim.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\bin\Debug\18Inheritance-Kalitim.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\obj\Debug\18Inheritance-Kalitim-Miras.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\obj\Debug\18Inheritance-Kalitim-Miras.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\obj\Debug\18Inheritance-Kalitim-Miras.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\obj\Debug\18Inheritance-Kalitim.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\18Inheritance-Kalitim\obj\Debug\18Inheritance-Kalitim.pdb

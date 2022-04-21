@@ -1,0 +1,6 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\bin\Debug\11ReadLineOrnekler2.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\bin\Debug\11ReadLineOrnekler2.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\bin\Debug\11ReadLineOrnekler2.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\obj\Debug\09ReadLineOrnekler2.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\obj\Debug\11ReadLineOrnekler2.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\11ReadLineOrnekler2\obj\Debug\11ReadLineOrnekler2.pdb

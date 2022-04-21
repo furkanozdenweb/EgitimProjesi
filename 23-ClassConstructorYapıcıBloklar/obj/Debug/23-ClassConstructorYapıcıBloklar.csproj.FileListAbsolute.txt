@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\bin\Debug\23-ClassConstructorYapıcıBloklar.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\bin\Debug\23-ClassConstructorYapıcıBloklar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\bin\Debug\23-ClassConstructorYapıcıBloklar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\obj\Debug\23-ClassConstructorYapıcıBloklar.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\obj\Debug\23-ClassConstructorYapıcıBloklar.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\obj\Debug\23-ClassConstructorYapıcıBloklar.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\obj\Debug\23-ClassConstructorYapıcıBloklar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\23-ClassConstructorYapıcıBloklar\obj\Debug\23-ClassConstructorYapıcıBloklar.pdb

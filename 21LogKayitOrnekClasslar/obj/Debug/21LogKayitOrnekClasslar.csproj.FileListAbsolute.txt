@@ -1,0 +1,16 @@
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\bin\Debug\21LogKayitOrnekClasslar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\21LogKayitOrnekClasslar\obj\Debug\21LogKayitOrnekClasslar.pdb

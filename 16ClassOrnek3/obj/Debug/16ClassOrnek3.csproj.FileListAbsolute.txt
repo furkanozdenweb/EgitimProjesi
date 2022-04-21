@@ -1,0 +1,7 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\bin\Debug\16ClassOrnek3.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\bin\Debug\16ClassOrnek3.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\bin\Debug\16ClassOrnek3.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\obj\Debug\16ClassOrnek3.csprojAssemblyReference.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\obj\Debug\16ClassOrnek3.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\obj\Debug\16ClassOrnek3.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\16ClassOrnek3\obj\Debug\16ClassOrnek3.pdb

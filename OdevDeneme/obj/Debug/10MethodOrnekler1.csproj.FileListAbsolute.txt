@@ -1,0 +1,6 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\bin\Debug\OdevDeneme.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\bin\Debug\OdevDeneme.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\bin\Debug\OdevDeneme.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\obj\Debug\10MethodOrnekler1.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\obj\Debug\OdevDeneme.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\OdevDeneme\obj\Debug\OdevDeneme.pdb

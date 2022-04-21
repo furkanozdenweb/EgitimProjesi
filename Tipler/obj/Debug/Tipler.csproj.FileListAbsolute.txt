@@ -1,0 +1,7 @@
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\bin\Debug\Tipler.exe.config
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\bin\Debug\Tipler.exe
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\bin\Debug\Tipler.pdb
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\obj\Debug\Tipler.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\obj\Debug\Tipler.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\obj\Debug\Tipler.exe
+C:\Users\Samet\Desktop\Egitim\Hafta8  - CSharp\Basliyoruz\Tipler\obj\Debug\Tipler.pdb

@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\bin\Debug\24-ConstructorInjection.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\bin\Debug\24-ConstructorInjection.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\bin\Debug\24-ConstructorInjection.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\obj\Debug\24-ConstructorInjection.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\obj\Debug\24-ConstructorInjection.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\obj\Debug\24-ConstructorInjection.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\obj\Debug\24-ConstructorInjection.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\24-ConstructorInjection\obj\Debug\24-ConstructorInjection.pdb

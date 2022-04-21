@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\bin\Debug\30DictionarySozlukKullanimi.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\bin\Debug\30DictionarySozlukKullanimi.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\bin\Debug\30DictionarySozlukKullanimi.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\obj\Debug\30DictionarySozlukKullanimi.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\obj\Debug\30DictionarySozlukKullanimi.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\obj\Debug\30DictionarySozlukKullanimi.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\obj\Debug\30DictionarySozlukKullanimi.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\30DictionarySozlukKullanimi\obj\Debug\30DictionarySozlukKullanimi.pdb

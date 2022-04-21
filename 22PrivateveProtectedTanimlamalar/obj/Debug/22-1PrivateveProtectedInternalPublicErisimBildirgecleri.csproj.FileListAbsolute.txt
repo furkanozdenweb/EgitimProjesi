@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\bin\Debug\22PrivateveProtectedTanimlamalar.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\bin\Debug\22PrivateveProtectedTanimlamalar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\bin\Debug\22PrivateveProtectedTanimlamalar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\obj\Debug\22-1PrivateveProtectedInternalPublicErisimBildirgecleri.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\obj\Debug\22-1PrivateveProtectedInternalPublicErisimBildirgecleri.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\obj\Debug\22-1PrivateveProtectedInternalPublicErisimBildirgecleri.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\obj\Debug\22PrivateveProtectedTanimlamalar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22PrivateveProtectedTanimlamalar\obj\Debug\22PrivateveProtectedTanimlamalar.pdb

@@ -1,0 +1,15 @@
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.exe.config
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\13InterfaceClasslar.csproj.CoreCompileInputs.cache
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\8InterfaceClasslar.exe
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\8InterfaceClasslar.pdb
+D:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\13InterfaceClasslar.csprojAssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.exe.config
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\bin\Debug\8InterfaceClasslar.pdb
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\13InterfaceClasslar.csproj.AssemblyReference.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\13InterfaceClasslar.csproj.SuggestedBindingRedirects.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\13InterfaceClasslar.csproj.CoreCompileInputs.cache
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\8InterfaceClasslar.exe
+E:\İşler\Egitim\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\8InterfaceClasslar\obj\Debug\8InterfaceClasslar.pdb

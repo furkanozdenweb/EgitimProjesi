@@ -1,0 +1,12 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22-3PublicOrnekErisimProjesi.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22-3PublicOrnekErisimProjesi.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22-3PublicOrnekErisimProjesi.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22PrivateveProtectedTanimlamalar.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22PrivateveProtectedTanimlamalar.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\bin\Debug\22PrivateveProtectedTanimlamalar.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.csproj.CopyComplete
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\22-3PublicOrnekErisimProjesi\obj\Debug\22-3PublicOrnekErisimProjesi.pdb

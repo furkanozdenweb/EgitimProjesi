@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\bin\Debug\29CollectionMethodlariveOzellikleri.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\bin\Debug\29CollectionMethodlariveOzellikleri.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\bin\Debug\29CollectionMethodlariveOzellikleri.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\obj\Debug\29CollectionMethodlariveOzellikleri.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\obj\Debug\29CollectionMethodlariveOzellikleri.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\obj\Debug\29CollectionMethodlariveOzellikleri.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\obj\Debug\29CollectionMethodlariveOzellikleri.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\29CollectionMethodlariveOzellikleri\obj\Debug\29CollectionMethodlariveOzellikleri.pdb
