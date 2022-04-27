@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30DictionarySozlukKullanimi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ExceptionHataYakalama", "31ExceptionHataYakalama\31ExceptionHataYakalama.csproj", "{FAD4CD24-7653-4BF1-BB27-1F88A33A03BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32AdoNetDemo", "32AdoNetDemo\32AdoNetDemo.csproj", "{02C7216C-1210-46AD-A751-B1CBF272EC46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{FAD4CD24-7653-4BF1-BB27-1F88A33A03BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD4CD24-7653-4BF1-BB27-1F88A33A03BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD4CD24-7653-4BF1-BB27-1F88A33A03BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C7216C-1210-46AD-A751-B1CBF272EC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C7216C-1210-46AD-A751-B1CBF272EC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C7216C-1210-46AD-A751-B1CBF272EC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C7216C-1210-46AD-A751-B1CBF272EC46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

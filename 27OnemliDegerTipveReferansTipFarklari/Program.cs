@@ -22,14 +22,6 @@ namespace _27OnemliDegerTipveReferansTipFarklari
             Console.WriteLine(sayi2);
             Console.ReadLine();
 
-         
-
-
-
-
-
-
-
 
 
 

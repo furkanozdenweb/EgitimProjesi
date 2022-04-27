@@ -1,0 +1,11 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\bin\Debug\32AdoNetDemo.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\bin\Debug\32AdoNetDemo.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\bin\Debug\32AdoNetDemo.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\_32AdoNetDemo.Form1.resources
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\_32AdoNetDemo.Properties.Resources.resources
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.csproj.GenerateResource.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\32AdoNetDemo\obj\Debug\32AdoNetDemo.pdb

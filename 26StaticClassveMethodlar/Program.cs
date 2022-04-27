@@ -10,16 +10,16 @@ namespace _26StaticClassveMethodlar
     {
         static void Main(string[] args)
         {
+            ClassimNewlenmez.sayi = 2;
 
-            ClassimNewlenmez.sayi = 5; // Bellekte değişir ve tüm kullanıclar aynı değeri alır. Sunucu belleğinde olduğu için web uygulamalrında biri değişirse tüm kullanıcılarda değişir. Uzak durmamız gereken bir nesne türüdür. Giriş işlemlerini tutup bunları kontrol edebiliris proje üzerinden.
+
+            ClassimNewlenmez.sayi = 7; // Bellekte değişir ve tüm kullanıclar aynı değeri alır. Sunucu belleğinde olduğu için web uygulamalrında biri değişirse tüm kullanıcılarda değişir. Uzak durmamız gereken bir nesne türüdür. Giriş işlemlerini tutup bunları kontrol edebiliris proje üzerinden.
 
             Islemler.EkranaYazStatic(); //Static newlenmeden direk sınıfın üzerinden tanımlanır.
             Console.WriteLine(ClassimNewlenmez.sayi);
             Console.ReadLine();
-
         }
     }
-
 
     static class ClassimNewlenmez // statik nesne newlenmeden kullanılabilir.
     {
@@ -29,8 +29,6 @@ namespace _26StaticClassveMethodlar
 
      class Islemler // Class static olursa alttaki tüm methodlarda static olmalıdır!
     {
-
-
         public void EkranaYaz()
         {
             Console.WriteLine("Merhaba Yazdım!");

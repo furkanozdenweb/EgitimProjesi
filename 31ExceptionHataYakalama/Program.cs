@@ -30,7 +30,7 @@ namespace _31ExceptionHataYakalama
 
                 /* ######### Merkezi bir classın içerisine koyulan Hata ayıklama işlemini basitçe her yerde kullanabiliriz.*/
             }
-            catch (Exception HataBilgisi) 
+            catch (Exception HataBilgisi)
             {
                 Console.WriteLine(HataBilgisi.Message);
                 Console.ReadLine();

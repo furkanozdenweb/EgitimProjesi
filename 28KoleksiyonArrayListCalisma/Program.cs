@@ -1,12 +1,11 @@
 ﻿using System;
-
+using System.Collections;//ArrayList kullanılacak ise bunu kullanımı için oluşturulan class kütüphanesi eklenecek.
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 
-using System.Collections;  //ArrayList kullanılacak ise bunu kullanımı için oluşturulan class kütüphanesi eklenecek.
 
 namespace _28KoleksiyonArrayListCalisma
 {
@@ -14,12 +13,48 @@ namespace _28KoleksiyonArrayListCalisma
     {
         static void Main(string[] args)
         {
-            // ArrayList();
+
+
+            //ArrayList();
 
             // TipGuvenliListlerleCalisma();
 
 
-            ProfesyonelCalismaNesneOlusturma();
+            List<MusteriDegerleri> musteriler = new List<MusteriDegerleri>();  //1. yöntem tanımlayıp tek tek eklemek
+            musteriler.Add(new MusteriDegerleri { Id = 1, AdiSoyadi = "Samet Erdem" });
+            musteriler.Add(new MusteriDegerleri { Id = 2, AdiSoyadi = "Özge Ulusoy Erdem" });
+            musteriler.Add(new MusteriDegerleri { Id = 3, AdiSoyadi = "Ege Ali Erdem" });
+
+            List<MusteriDegerleri> musteriler2 = new List<MusteriDegerleri> //1. yöntem tanımlarken toplu eklemek
+                {
+                    new MusteriDegerleri{Id=1,AdiSoyadi="Ferhat Falan" },
+                    new MusteriDegerleri{Id=2,AdiSoyadi="Samet Falan" },
+                    new MusteriDegerleri{Id=3,AdiSoyadi="Ahmet Falan" },
+                    new MusteriDegerleri{Id=4,AdiSoyadi="Furkan Falan" },
+                    new MusteriDegerleri{Id=5,AdiSoyadi="Mehmet Falan" },
+                    new MusteriDegerleri{Id=5,AdiSoyadi="Gamze Falan" }
+                };
+
+            foreach (MusteriDegerleri m in musteriler)
+            {
+                Console.WriteLine("Müşteri id:{0} Adı ve Soyadı: {1}", m.Id, m.AdiSoyadi);
+            }
+            Console.ReadLine();
+
+            foreach (MusteriDegerleri m in musteriler2)
+            {
+                Console.WriteLine("Müşteri id:{0} Adı ve Soyadı: {1}", m.Id, m.AdiSoyadi);
+            }
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+            // ProfesyonelCalismaNesneOlusturma();
 
         }
 
@@ -56,11 +91,10 @@ namespace _28KoleksiyonArrayListCalisma
 
         }
 
-        class MusteriDegerleri  //Bir nesne oluşturup çalışıyoruz çünkü ; Genellikle veritabanı programlama yaptığımız için veritabanındaki tablolarımız karşılığını nesne halinde tutarız. Kayıtları bu şekilde veritabanından çekerek listeye atarız ve o listeyi kullanıcıya gösteririz bu bağlamda direk nesnelerle çalışmak önemli !
-        { 
-            public int Id { get; set; }
-            public string AdiSoyadi { get; set; }
-        }
+
+
+
+
 
         private static void TipGuvenliListlerleCalisma()
         {
@@ -99,5 +133,15 @@ namespace _28KoleksiyonArrayListCalisma
             Console.ReadLine();
             // ########## Tip güvenli Collectionlar ile çalışmalıyız!
         }
+    }
+
+
+
+    class MusteriDegerleri  //Bir nesne oluşturup çalışıyoruz çünkü ; Genellikle veritabanı programlama yaptığımız için veritabanındaki tablolarımız karşılığını nesne halinde tutarız. Kayıtları bu şekilde veritabanından çekerek listeye atarız ve o listeyi kullanıcıya gösteririz bu bağlamda direk nesnelerle çalışmak önemli !
+    {
+        public int Id { get; set; }
+        public string AdiSoyadi { get; set; }
+
+      
     }
 }

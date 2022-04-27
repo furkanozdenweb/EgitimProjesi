@@ -20,12 +20,15 @@ namespace _29CollectionMethodlariveOzellikleri
                     new MusteriDegerleri{Id=6,Adi="Gamze" }
                 };
 
-            MusteriDegerleri musteriDegerleri1 = new MusteriDegerleri { 
-                Id=7, Adi="Ege"
+            MusteriDegerleri musteriDegerleri1 = new MusteriDegerleri {
+                Id = 7, Adi = "Ege"
             };
-            
 
-         
+
+
+  
+
+
             musteriler.Add(musteriDegerleri1);
             musteriler.Add(new MusteriDegerleri { Id = 8, Adi = "Özge" }); // Koleksiyona yeni değer ekleme
 
@@ -38,44 +41,63 @@ namespace _29CollectionMethodlariveOzellikleri
            
 
 
-            int MusteriSayisi = musteriler.Count(); // Koleksiyonların Listelerin  değer sayısını verir.
-            // musteriler.Clear(); // Listeyi Temizler
-      
+       
 
-            Console.WriteLine("Toplam Müşteri Sayısı : {0}",MusteriSayisi);
+
+
+
+           // musteriler.Clear(); // Listeyi Temizler
+
+            int MusteriSayisi = musteriler.Count(); // Koleksiyonların Listelerin  değer sayısını verir.
+
+            Console.WriteLine("Toplam Müşteri Sayısı : {0}", MusteriSayisi);
+
+
+ 
+
+
+
 
             bool icindeVarmi = musteriler.Contains(musteriDegerleri1);  // Contains tanımlanan nesne yada değerin bu listede aradığımız değer varmı diye arama yapar. Bool tipinde true yada false olarak değer döndürür.
             Console.WriteLine("Liste içinde değer var mı diye bakıldı '{0}' sonucu döndürüldü.", icindeVarmi);
-            
-            
+
+
+
             bool icindeVarmi2 = musteriler.Contains(new MusteriDegerleri { Id = 8, Adi = "Özge" });  // Contains tanımlanan nesne yada değerin bu listede aradığımız değer varmı diye arama yapar. Bool tipinde true yada false olarak değer döndürür.
             Console.WriteLine("Liste içinde  newlenerek değer var mı diye bakıldı '{0}' sonucu döndürüldü.", icindeVarmi2);
+
+
 
             int indexBilgisi = musteriler.IndexOf(musteriDegerleri1); // Aranan Elemanın endex değerini gösterir int tipinde veri döndürür
             Console.WriteLine("Indexof ile index değeri alındı '{0}' sonucu döndürüldü.", indexBilgisi);
 
+          
             int LastIndex = musteriler.LastIndexOf(musteriDegerleri1);//  Aramayı sondan  başlayarak yapar. verinin baştan itibaren index değerini dön
             Console.WriteLine("LastIndexof ile index değeri alındı '{0}' sonucu döndürüldü.", LastIndex);
 
+            
 
-
+            musteriler.Insert(0, musteriDegerleri1); // Insert işlemi ile istediğimiz veriyi istediğimiz index'e koyabiliriz. Add en sona eklerken insert ile istediğimiz endexe değer ekleriz diğerlerinide kaydırır  silmez !
+            musteriler.Insert(0, musteriDegerleri1); // Insert işlemi ile istediğimiz veriyi istediğimiz index'e koyabiliriz. Add en sona eklerken insert ile istediğimiz endexe değer ekleriz diğerlerinide kaydırır  silmez !
             musteriler.Insert(0, musteriDegerleri1); // Insert işlemi ile istediğimiz veriyi istediğimiz index'e koyabiliriz. Add en sona eklerken insert ile istediğimiz endexe değer ekleriz diğerlerinide kaydırır  silmez !
 
 
-          
+     
+             musteriler.Remove(musteriDegerleri1); // Eklemiş olduğumuz musteriDegerleri2 yi remove edebiliriz. Bulduğu ilk değeri uçurur. 
 
-
-
-
-            foreach (MusteriDegerleri m in musteriler)
+            foreach (MusteriDegerleri musteri in musteriler)
             {
-                Console.WriteLine("Müşteri id:{0} Adı: {1}", m.Id, m.Adi);
+                Console.WriteLine("Müşteri Id:{0} Müşteri Adı:{1}", musteri.Id, musteri.Adi);
             }
 
+            Console.ReadLine();
 
-            //  musteriler.Remove(musteriDegerleri1); // Eklemiş olduğumuz musteriDegerleri2 yi remove edebiliriz. Bulduğu ilk değeri uçurur. 
+
 
             musteriler.RemoveAll(m => m.Adi == "Ege");  // Bunu daha öğrenmedik ama bilgi notu olarak görelim.m=>m.Adi olarak liste içeriğiini ata ve Adi="Ege" olanları sil
+
+
+
 
             Console.WriteLine("-----------------------------------------");
 
