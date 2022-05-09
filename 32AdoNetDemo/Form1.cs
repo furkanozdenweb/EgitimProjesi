@@ -14,6 +14,7 @@ namespace _32AdoNetDemo
     {
 
         UrunDal _urunDal = new UrunDal(); //Ürün ile ilgili veritabanı işlemlerini tuttuğumuz urunDal classına referans göstererek değişkenimizi oluşturuyoruz.
+
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +23,6 @@ namespace _32AdoNetDemo
         private void Form1_Load(object sender, EventArgs e)
         {
 
-        
             dgwUrunler.DataSource = _urunDal.Getir(); // _urunDal işlemindeki Getir methodunu çağırıyoruz veritabanında bulunan kayıtları çekiyoruz.  dgwUrunler gridviewimize datasoruce methodunu işliyoruz.
         }
 
@@ -35,7 +35,24 @@ namespace _32AdoNetDemo
             };  // Urun tipinde bir EklenenUrun değişkeni oluşturuyoruz ve buna textboxlardan gelen değerleri alıyoruz.
 
             _urunDal.Ekle(EklenenUrun);  // _urunDal işlemindeki Ekle methodunu çağırıyoruz  ve oluşturduğumuz urun değişkenini ekleme methoduna parametre olarak gönderiyoruz.
+
+
+
+
             dgwUrunler.DataSource = _urunDal.Getir(); // _urunDal işlemindeki Getir methodunu çağırıyoruz veritabanında bulunan kayıtları çekiyoruz.  dgwUrunler gridviewimize datasoruce methodunu işliyoruz.
+
+
+
+            MessageBox.Show("Kayıt eklendi .");
+        }
+
+        private void dgwUrunler_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+           // MessageBox.Show("Satır Seçildi.");
+    
+            tbxGuncelleUrunAdi.Text = dgwUrunler.CurrentRow.Cells[1].Value.ToString() ;
+            tbxGuncelleUrunFiyat.Text = dgwUrunler.CurrentRow.Cells[2].Value.ToString() ;
+            tbxGuncelleStokAdet.Text = dgwUrunler.CurrentRow.Cells[3].Value.ToString();
         }
 
         //private void dgwUrunler_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -45,14 +62,6 @@ namespace _32AdoNetDemo
 
 
 
-   
-        private void dgwUrunler_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-           // MessageBox.Show("Satır Seçildi.");
-            tbxGuncelleUrunAdi.Text = dgwUrunler.CurrentRow.Cells[1].Value.ToString() ;
-            tbxGuncelleUrunFiyat.Text = dgwUrunler.CurrentRow.Cells[2].Value.ToString() ;
-            tbxGuncelleStokAdet.Text = dgwUrunler.CurrentRow.Cells[3].Value.ToString();
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -66,6 +75,9 @@ namespace _32AdoNetDemo
 
             
             _urunDal.Duzenle(DuzenlenenUrun);  // _urunDal işlemindeki Düzenle methodunu çağırıyoruz  ve oluşturduğumuz urun değişkenini ekleme methoduna parametre olarak gönderiyoruz.
+
+
+
             dgwUrunler.DataSource = _urunDal.Getir(); // _urunDal işlemindeki Getir methodunu çağırıyoruz veritabanında bulunan kayıtları çekiyoruz.  dgwUrunler gridviewimize datasoruce methodunu işliyoruz.
         }
 
@@ -77,6 +89,6 @@ namespace _32AdoNetDemo
             dgwUrunler.DataSource = _urunDal.Getir(); // _urunDal işlemindeki Getir methodunu çağırıyoruz veritabanında bulunan kayıtları çekiyoruz.  dgwUrunler gridviewimize datasoruce methodunu işliyoruz.
         }
 
-      
+   
     }
 }

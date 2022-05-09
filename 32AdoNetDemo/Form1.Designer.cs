@@ -60,6 +60,7 @@
             this.dgwUrunler.Size = new System.Drawing.Size(740, 202);
             this.dgwUrunler.TabIndex = 0;
             this.dgwUrunler.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwUrunler_CellClick);
+         
             // 
             // groupBox1
             // 
@@ -229,7 +230,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dgwUrunler);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ado.net Demo";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgwUrunler)).EndInit();
             this.groupBox1.ResumeLayout(false);

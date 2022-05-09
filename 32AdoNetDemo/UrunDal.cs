@@ -5,28 +5,32 @@ using System.Data.SqlClient;// Ado net küütphanesini kullanacak isek biz bu k�
 
 namespace _32AdoNetDemo
 {
+    
+
+
     public class UrunDal //Sonu dal ile biten isimlendirmeler kurumsal mimarilerde dal veri tabanı işlemleri yaapacağımızı anlarız ! "tablo adı" ve Data Access Layer - Veri Erişim Katmanı kısaltması "tablo adı+ "Dal"
     {
-
         SqlConnection _baglan = new SqlConnection(@"server=(localdb)\MSSQLLocalDB;Initial catalog=AlisverisDb;integrated security=true;");
         //@ et işareti koyarsak burada yazdığımız herşeyi string olarak kabul et demektir.
         //server =  bağlanacağımız sunucu bilgisini tutar
         //Initial catalog = Veritabanı Adımızı ister
 
 
+
+
         public List<Urun> Getir() // Liste tipinde değer döndürecek ve Bu listenin Urun nesnesi tipinde bir getir methodu tanımladık
         {
-
-
+        
             if (_baglan.State == ConnectionState.Closed)
             {
                 _baglan.Open(); // Veritabanına bağlantı açmak zorundayız bunun içerisine erişim sağlayacak isek.
             }
-            SqlCommand komut = new SqlCommand("Select * from Urun", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
-            SqlDataReader okuyucu= komut.ExecuteReader();// Bu method ile kodumuzu  ExecuteReader Methoduyla tetikliyoruz ve  reader nesnesine komutları çalıştırarak atıyorum.
+
+            SqlCommand komut = new SqlCommand("Select * from Urunler", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
+            SqlDataReader okuyucu= komut.ExecuteReader();// Bu method ile kodumuzu  ExecuteReader Methoduyla tetikliyoruz ve  reader nesnesine komutları çalıştırarak atıyorum. 
 
             List<Urun> urunler = new List<Urun>(); //urunler koleksiyonu oluşturduk.
-            
+
             while (okuyucu.Read()) { // Her okuduğumuz elemanı while ile döndürerek uruns nesneme attım
                 Urun urun = new Urun {
                     Id = Convert.ToInt32(okuyucu["Id"]),  // Reader'dak Sütun Adı Id olan değeri ver. İlgili Veri tipine Convert ettik
@@ -48,11 +52,11 @@ namespace _32AdoNetDemo
                 _baglan.Open(); // Veritabanına bağlantı açmak zorundayız bunun içerisine erişim sağlayacak isek.
             }
 
-            SqlCommand command = new SqlCommand("insert into Urun (UrunAdi,UrunFiyat,StokAdet) values(@UrunAdi, @UrunFiyat, @StokAdet)", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
-            command.Parameters.AddWithValue("@UrunAdi", urun.UrunAdi);
-            command.Parameters.AddWithValue("@UrunFiyat", urun.UrunFiyat);
-            command.Parameters.AddWithValue("@StokAdet", urun.StokAdet);
-            command.ExecuteNonQuery();//Çalıştırıyoruz. bu aynı zamanda etkilenen kayıt sayısını döndürür.
+            SqlCommand komut = new SqlCommand("insert into Urunler (UrunAdi,UrunFiyat,StokAdet) values (@UrunAdi, @UrunFiyat, @StokAdet)", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
+            komut.Parameters.AddWithValue("@UrunAdi", urun.UrunAdi);
+            komut.Parameters.AddWithValue("@UrunFiyat", urun.UrunFiyat);
+            komut.Parameters.AddWithValue("@StokAdet", urun.StokAdet);
+            komut.ExecuteNonQuery();//Çalıştırıyoruz. bu aynı zamanda etkilenen kayıt sayısını döndürür.
           
         }
 
@@ -64,7 +68,7 @@ namespace _32AdoNetDemo
                 _baglan.Open(); // Veritabanına bağlantı açmak zorundayız bunun içerisine erişim sağlayacak isek.
             }
 
-            SqlCommand command = new SqlCommand("Update Urun set UrunAdi=@UrunAdi ,UrunFiyat=@UrunFiyat,StokAdet= @StokAdet where id=@id", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
+            SqlCommand command = new SqlCommand("Update Urunler set UrunAdi=@UrunAdi ,UrunFiyat=@UrunFiyat,StokAdet= @StokAdet where id=@id", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
             command.Parameters.AddWithValue("@id", urun.Id);
             command.Parameters.AddWithValue("@UrunAdi", urun.UrunAdi);
             command.Parameters.AddWithValue("@UrunFiyat", urun.UrunFiyat);
@@ -80,7 +84,7 @@ namespace _32AdoNetDemo
                 _baglan.Open(); // Veritabanına bağlantı açmak zorundayız bunun içerisine erişim sağlayacak isek.
             }
 
-            SqlCommand command = new SqlCommand("delete  from Urun where id=@id", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
+            SqlCommand command = new SqlCommand("delete  from Urunler where id=@id", _baglan); // Sql Command kodumuzu istiyor yani veritabanı ile ne işlem yapacağız. bu comutu ve hangi bağlantıya göndereceğimizi tanımlıyoruz.
             command.Parameters.AddWithValue("@id", urunId);
             command.ExecuteNonQuery();//Çalıştırıyoruz. bu aynı zamanda etkilenen kayıt sayısını döndürür.
 
