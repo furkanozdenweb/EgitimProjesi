@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33EntityFrameworkDemo", "33
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34GenericSiniflar", "34GenericSiniflar\34GenericSiniflar.csproj", "{206949BD-47F5-4337-AC54-087BDDA74BAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Ornekler", "35Ornekler\35Ornekler.csproj", "{697676EA-0BD8-4B9F-AD5C-FB272F16DFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{206949BD-47F5-4337-AC54-087BDDA74BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{206949BD-47F5-4337-AC54-087BDDA74BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{206949BD-47F5-4337-AC54-087BDDA74BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697676EA-0BD8-4B9F-AD5C-FB272F16DFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697676EA-0BD8-4B9F-AD5C-FB272F16DFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697676EA-0BD8-4B9F-AD5C-FB272F16DFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697676EA-0BD8-4B9F-AD5C-FB272F16DFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

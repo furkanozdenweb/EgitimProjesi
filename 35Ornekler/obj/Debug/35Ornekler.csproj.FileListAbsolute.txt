@@ -1,0 +1,8 @@
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\bin\Debug\35Ornekler.exe.config
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\bin\Debug\35Ornekler.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\bin\Debug\35Ornekler.pdb
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\obj\Debug\35Ornekler.csproj.AssemblyReference.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\obj\Debug\35Ornekler.csproj.SuggestedBindingRedirects.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\obj\Debug\35Ornekler.csproj.CoreCompileInputs.cache
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\obj\Debug\35Ornekler.exe
+E:\İsler\EgitimOrnekleri\Hafta8  - CSharp\Basliyoruz\35Ornekler\obj\Debug\35Ornekler.pdb
